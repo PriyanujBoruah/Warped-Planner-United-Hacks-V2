@@ -6,7 +6,7 @@ import random
 
 
 
-palm.configure(api_key = "AIzaSyDNC8ftBu9OafKTtT6jjTToLLGprFwRweM")
+palm.configure(api_key = "INSERT API KEY")
 
 
 
